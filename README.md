@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akalanka Jayasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akalankajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akalankajayasinghe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akalankajayasinghe" alt="akalankajayasinghe" /></a> </p>
+<div>
+  <center>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=akalankajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="akalankajayasinghe" /> </p>
+  </center>
+</div>
 
 - 🔭 I’m currently working on **Visit sri lanka**
 
